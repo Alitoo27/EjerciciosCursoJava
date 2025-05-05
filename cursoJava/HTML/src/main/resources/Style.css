@@ -1,0 +1,21 @@
+/*  */
+body{
+    backgrond-color: black;
+    color: white;
+}
+a{
+    color: hotpink;
+}
+a:hover{
+    color: yellow;
+}
+/* clases - selectores */
+.texto-centrado{
+    text-align: center;
+}
+
+.titulo{
+    text-size: 200%;
+}
+
+
